@@ -6,7 +6,7 @@
  *          + Early injection before DOM ready
  * Host: GitHub Raw → PCAPdroid JS Injector
  * Updated: v3.0 — Aggressive polling, early run, timing fix
- * version Test
+ * Version Test
  */
 
 (function () {
