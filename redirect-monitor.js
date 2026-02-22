@@ -3,6 +3,7 @@
  * By: Farhan (海鹏 鸟神)
  * Purpose: Detect & log suspicious redirects via PCAPdroid JS Injector
  * Host: GitHub Gist → Raw URL → PCAPdroid JS Injector
+ * version Test
  */
 
 (function () {
