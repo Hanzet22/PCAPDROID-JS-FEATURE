@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         full-blocker-test2
+// @name         full-blocker-4.1-patch
 // @namespace    https://github.com/Hanzet22/PCAPDROID-JS-FEATURE
 // @version      4.1 Patch Fix Leak
 // @description  Full Blocker — Anomaly Detection + Loop Breaker + Structured Logging
