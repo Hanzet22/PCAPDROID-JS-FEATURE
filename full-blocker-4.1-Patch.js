@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         full-blocker-4.1-patch
 // @namespace    https://github.com/Hanzet22/PCAPDROID-JS-FEATURE
-// @version      4.1 Patch Fix Leak
-// @description  Full Blocker — Anomaly Detection + Loop Breaker + Structured Logging
+// @version      4.1.0
+// @description  Full Blocker v4.1 Patch Fix Leak — Anomaly Detection + Loop Breaker + Structured Logging
 // @author       Farhan (海鹏 鸟神 / Hanzet22)
 // @match        *://*/*
 // @run-at       document-start
@@ -15,7 +15,7 @@
  * Anomaly Detection : scan spike counter + DOM thrash detect
  * Loop Breaker      : max dismiss attempts per element per session
  * Structured Logging: { t, type, msg, target, count, status }
- * All v3.0 features retained + hardened
+ * All v4.1 patch features retained + hardened
  */
 
 (function () {
